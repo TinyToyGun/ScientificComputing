@@ -2,8 +2,13 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ex02-396679-luis-katterbach/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/programmier_aufgabe_01/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ex03-396679-luis-katterbach/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/PA01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex02-396679-luis-katterbach/target" />
       <excludeFolder url="file://$MODULE_DIR$/programmier_aufgabe_01/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ex03-396679-luis-katterbach/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
